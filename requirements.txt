@@ -1,0 +1,13 @@
+langchain
+langchain.experimental
+faiss-cpu
+openai
+pypdf
+fastapi
+uvicorn
+tiktoken
+streamlit
+python-multipart
+requests
+pydantic
+
