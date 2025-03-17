@@ -34,8 +34,8 @@ The system is designed to work exclusively with uploaded documents, preventing h
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/field-service-agent.git
-   cd field-service-agent
+   git clone https://github.com/ai-engines/field_support_agent.git
+   cd field_service_agent
    ```
 
 2. Create a `.env` file in the project root:
